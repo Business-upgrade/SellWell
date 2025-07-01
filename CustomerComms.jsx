@@ -10,6 +10,7 @@ export default function CustomerComms() {
         <div className="p-6 bg-white rounded-xl shadow-sm">
           <EmailGenerator />
         </div>
+        
         <div className="p-6 bg-white rounded-xl shadow-sm">
           <InboxSummarizer />
         </div>
