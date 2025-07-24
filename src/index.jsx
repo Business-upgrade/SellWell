@@ -180,21 +180,21 @@ function DashboardSection() {
             description: 'Set up automated email responses and track customer communication progress.',
             buttonText: 'Manage',
             buttonClass: 'btn-purple',
-            link: '/email-assistant.html' // <--- ADDED LINK PROPERTY
+            link: '/src/email-assistant.html'
         },
         {
             title: 'Inventory Monitor',
             description: 'View current stock status with color-coded alerts and manage inventory levels.',
             buttonText: 'View',
             buttonClass: 'btn-blue',
-            link: '/inventory-monitor.html' // <--- ADDED LINK PROPERTY (example for others)
+            link: '/inventory-monitor.html'
         },
         {
             title: 'Negotiation Tracker',
             description: 'Review and approve AI-generated counteroffers for potential buyers.',
             buttonText: 'Track',
             buttonClass: 'btn-green',
-            link: '/negotiation-tracker.html' // <--- ADDED LINK PROPERTY (example for others)
+            link: '/negotiation-tracker.html'
         }
     ];
 
